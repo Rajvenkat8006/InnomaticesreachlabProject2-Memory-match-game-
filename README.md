@@ -7,9 +7,7 @@ Create the basic structure of the page, including the landing page with buttons 
 Ensure that the HTML has the necessary divs for the game container, cards, score, and timer.
 
 2) CSS Design:
-Style the landing page with a header, buttons, and a centered layout.
-Design the game container to display the cards in a grid-like structure.
-Ensure that the layout is responsive. Make sure the game adjusts for smaller screen sizes (such as on mobile devices).
+Style the landing page with a header, buttons, and a centered layout.Design the game container to display the cards in a grid-like structure.Ensure that the layout is responsive. Make sure the game adjusts for smaller screen sizes (such as on mobile devices).
 
 ## Part 2: Game Logic Implementation
 
